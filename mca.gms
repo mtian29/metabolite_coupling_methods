@@ -1,4 +1,3 @@
-* Read in the appropriate S matrix
 $include ToyNetwork.gms
 
 $onecho > cplex.opt
